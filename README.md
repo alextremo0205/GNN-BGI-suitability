@@ -4,7 +4,7 @@ This repository contains the code of Chapter 5 of the PhD thesis:
 
 > Garzón Díaz, J. A. (2026). *Metamodeling of Urban Drainage Systems with Graph Neural Networks* (PhD thesis). Delft University of Technology. Chapter 5: *Suitability assessment of GNN-based metamodels for BGI allocation*. <!-- TODO: add the link to the TU Delft repository -->
 
-The data needed to run it, and the results reported in the chapter, are available at: <!-- TODO: add the link/DOI of the data repository -->
+The data needed to run it, and the results reported in the chapter, are available at: [4TU Data repository](https://doi.org/10.4121/0562e37c-5af7-41d1-9679-61880878eb46) <!-- TODO: add the link/DOI of the data repository -->
 
 ## What this code does
 
