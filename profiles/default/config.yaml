@@ -1,0 +1,4 @@
+# Default Snakemake settings for this workflow (loaded automatically).
+# The greedy scheduler avoids the ILP solver bundled with Snakemake, whose binary
+# does not run on every platform (e.g. Apple Silicon without Rosetta).
+scheduler: greedy

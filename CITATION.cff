@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Suitability assessment of GNN-based metamodels for BGI allocation"
+type: software
+authors:
+  - family-names: Garzón Díaz
+    given-names: Jorge Alexander
+    email: j.a.garzondiaz@tudelft.nl
+    affiliation: Delft University of Technology
+license: MIT
+repository-code: "https://github.com/alextremo0205/GNN-BGI-suitability"
+version: 1.0.0
+# TODO: add the DOI of the archived release (e.g. Zenodo):
+# doi: 10.5281/zenodo.XXXXXXX
+preferred-citation:
+  type: thesis
+  thesis-type: PhD
+  title: "Metamodeling of Urban Drainage Systems with Graph Neural Networks"
+  authors:
+    - family-names: Garzón Díaz
+      given-names: Jorge Alexander
+  institution:
+    name: Delft University of Technology
+  year: 2026

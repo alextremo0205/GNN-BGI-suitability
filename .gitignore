@@ -1,0 +1,30 @@
+# Environment
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data and results (available in the data repository)
+data/
+saved_objects/
+results/
+
+# Workflow
+.snakemake/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Personal notes
+ToDo.md
+
+# SWMM files created when running notebooks
+*.inp
+*.out
+*.rpt
+
+# Thesis and other documents
+/*.pdf
